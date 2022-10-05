@@ -48,7 +48,7 @@ const Home = () => {
 					<div className="col-xl-3 col-md-4 col-lg-3">
 						<Card
 							imageUrl="https://aquaworld.com.mx/wp-content/uploads/2021/04/buceo-en-naufragios-toda-una-experiencia-en-cancun_1100x619.jpeg"
-							cardTitle="Michael Jackson"
+							cardTitle="Buceo en Naufragios"
 							cardDescription="El buceo en naufragios es una de las ramas del buceo recreativo en el cual se exploran los restos de barcos, aviones u otras estructuras artificiales. Estas estructuras submarinas pueden ser el resultado de accidentes o bien haber sido colocadas allí intencionalmente para formar arrecifes artificiales.
 
 							Algunos buzos opinan que el buceo en Naufragios es particularmente especial porque nos transporta en el tiempo y nos permite sentir, ver e imaginar las cosas que ocurrieron antes de que esas estructuras se aferraran al lecho marino para siempre. Es como visitar un mundo que antes fué y quedó inmóvil bajo el sonido de las profundidades marinas."
